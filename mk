@@ -1,2 +1,4 @@
-rm rg
-gcc main.c -lncurses -o rg
+#!/bin/sh
+#Silly sh
+rm life
+gcc main.c -lncurses -o life
